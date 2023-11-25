@@ -4,8 +4,6 @@
   "main": "index.js",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel",
     "start": "node index.js"
   },
   "keywords": [],
